@@ -4,7 +4,7 @@
     {
       "type": "wireguard",
       "tag": "HamraheAval-IR-Server",
-      "local_address": [
+      "local_address": [ 
         "172.16.0.2/32",
         "2606:4700:110:8c91:4063:21d0:7dd5:f218/128"
       ],
